@@ -10,9 +10,9 @@ Evidence: Bukti nyata berupa obrolan customer yang sangat singkat, contohnya: "M
 
 Impact: Penjadwalan tim kebersihan berantakan, tim membawa peralatan yang salah ke lokasi, dan terjadi pembatalan pesanan di hari-H.  
 
+
 2. Problem Statement & How Might We (HMW)
 Dua kalimat rumusan masalah final:  
-PDF
 Problem Statement:
 Admin cleaning service membutuhkan cara untuk mengekstrak dan memverifikasi kelengkapan data pemesanan dari chat customer secara otomatis karena informasi spesifikasi properti dan jadwal sering tidak lengkap, sehingga penjadwalan tim cleaner terlambat dan sering terjadi kesalahan estimasi biaya.  
 
@@ -20,10 +20,9 @@ How Might We (HMW):
 Bagaimana kita dapat membantu admin cleaning service memastikan spesifikasi properti dan alamat pembersihan lengkap sebelum order dijadwalkan?  
 
 
+3 Tabel Test Case (Hasil Pengujian Chat)
+Tabel bukti bahwa program kalian sudah diuji dengan 3 variasi chat customer:
 
-4. Tabel 3 Test Case (Hasil Pengujian Chat)
-Tabel bukti bahwa program kalian sudah diuji dengan 3 variasi chat customer:  
-PDF
 Case	Jenis Chat	Contoh Chat Input	Status Hasil	Penjelasan
 A	Lengkap	"Halo kak, saya Budi. Mau Deep Cleaning 2 Lantai untuk Sabtu 19 September jam 10 pagi di Jalan Cemara No. 12 Medan."	READY	
 Data lengkap (nama, layanan, jadwal, lokasi ada), aturan bisnis meloloskan.  
