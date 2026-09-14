@@ -21,6 +21,8 @@ PDF
 How Might We (HMW):
 Bagaimana kita dapat membantu admin cleaning service memastikan spesifikasi properti dan alamat pembersihan lengkap sebelum order dijadwalkan?  
 PDF
+
+
 4. Tabel 3 Test Case (Hasil Pengujian Chat)
 Tabel bukti bahwa program kalian sudah diuji dengan 3 variasi chat customer:  
 PDF
