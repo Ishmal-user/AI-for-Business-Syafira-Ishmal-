@@ -10,7 +10,8 @@ Evidence: Bukti nyata berupa obrolan customer yang sangat singkat, contohnya: "M
 PDF
 Impact: Penjadwalan tim kebersihan berantakan, tim membawa peralatan yang salah ke lokasi, dan terjadi pembatalan pesanan di hari-H.  
 PDF
-📘 2. Problem Statement & How Might We (HMW)
+
+2. Problem Statement & How Might We (HMW)
 Dua kalimat rumusan masalah final:  
 PDF
 Problem Statement:
