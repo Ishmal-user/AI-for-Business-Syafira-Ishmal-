@@ -1,0 +1,5 @@
+streamlit
+google-genai>=2.3.0
+pydantic>=2
+python-dotenv
+pandas
