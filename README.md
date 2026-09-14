@@ -24,6 +24,7 @@ Bagaimana kita dapat membantu admin cleaning service memastikan spesifikasi prop
 Tabel bukti bahwa program kalian sudah diuji dengan 3 variasi chat customer:
 
 Case	Jenis Chat	Contoh Chat Input	Status Hasil	Penjelasan
+
 A	Lengkap	"Halo kak, saya Budi. Mau Deep Cleaning 2 Lantai untuk Sabtu 19 September jam 10 pagi di Jalan Cemara No. 12 Medan."	READY	
 Data lengkap (nama, layanan, jadwal, lokasi ada), aturan bisnis meloloskan.  
 
